@@ -1,9 +1,18 @@
 .intro  {
   text-align:center;
-  border-style:solid;
-  border-color: black;
-  border-width: 5px;
+  border:5px solid black;
 }
+
+.highlight {
+  color: red;
+  background-color: black;
+}
+
+.paragraph {
+  text-align:center;
+  border:5px solid black;
+}
+
 
 img {
   display:block;
